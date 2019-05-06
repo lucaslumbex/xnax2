@@ -1,0 +1,27 @@
+#form-input-phone-no {
+    border-radius: 20px !important;
+    border: 1px solid #f4f6fa !important;
+    background-color: #f4f6fa !important;
+    font-size: 12px;
+}
+#form-input-phone-no input{
+    border-top-right-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+    padding: 8px 15px 8px 15px !important;
+    background-color: #f4f6fa !important;
+    color: #1d222c !important;
+}
+#form-input-phone-no input:active,
+#form-input-phone-no input:focus{
+    background-color: #fff !important;
+}
+.dropdown{
+    padding: 5px 9px !important;
+    border-top-left-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+}
+.dropdown.open, .dropdown:hover {
+    background-color: #ffffff !important;
+    border-top-left-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+}
